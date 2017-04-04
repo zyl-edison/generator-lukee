@@ -1,0 +1,28 @@
+{
+  "name": "generator-lukee",
+  "version": "0.1.0",
+  "description": "A yeoman generator for Lukee",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": {
+    "name": "Edison Li",
+    "email": "zyl.edison@gmail.com",
+    "url": ""
+  },
+  "homepage": "https://zyl-edison.github.io/lukee/",
+  "repository" : {
+    "type": "git",
+    "url": "git@github.com:zyl-edison/generator-lukee.git"
+  },
+  "dependencies": {
+    "decompress": "^4.0.0",
+    "fs-extra": "^2.1.2",
+    "q": "^1.5.0",
+    "request": "^2.81.0",
+    "yeoman-generator": "^1.1.1"
+  }
+}
